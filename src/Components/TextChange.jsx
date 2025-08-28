@@ -13,7 +13,7 @@ const TextChange = () => {
         setIndex((prev) => (prev + 1) % roles.length);
         setFade(true); // fade in
       }, 400); // fade-out duration
-    }, 3000); // 3 second per role
+    }, 2000); // 1 second per role
     return () => clearInterval(interval);
   }, [roles.length]);
 

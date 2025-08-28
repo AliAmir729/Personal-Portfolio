@@ -20,14 +20,7 @@ const Home = () => {
         
       </div>
 
-      {/* Image Section */}
-      {/* <div className="flex justify-center md:justify-end md:w-2/4">
-        <img 
-          className='rounded-full w-60 h-60 md:w-80 md:h-80 object-cover' 
-          src="personal_pic.jpeg" 
-          alt="pic" 
-        />
-      </div> */}
+     
 
       <div className="flex justify-center md:justify-end md:w-2/4">
   <div className="relative group w-60 h-60 md:w-80 md:h-80 rounded-full overflow-hidden shadow-[0_0_40px_rgba(120,119,198,0.3)] transform transition-all duration-700">
