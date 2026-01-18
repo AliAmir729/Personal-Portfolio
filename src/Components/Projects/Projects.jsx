@@ -40,6 +40,13 @@ const projects = () => {
                     demoLink="https://quiz-app-nu-ten-91.vercel.app/"
                     githubLink="https://github.com/AliAmir729/Quiz-App" />
 
+                    <ProjectCard
+                    title="QuickChat-App"
+                    main="A real-time chat application built with the MERN stack, featuring secure authentication, online/offline status tracking, and instant messaging with socket-based communication "
+                    imgSrc="ChatApp.png"
+                    demoLink="https://chat-app-beta-sepia-66.vercel.app/"
+                    githubLink="https://github.com/AliAmir729/Chat-app" />
+
 
             </div>
         </div>
